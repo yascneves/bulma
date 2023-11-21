@@ -1,2 +1,14 @@
-# bulma
-IFSUL de Minas - disciplina Programação Web - prof. Wagner Josué - Avaliação BULMA, nov/2023
+# Bulma
+IFSUL de Minas 
+Disciplina: Programação Web
+Prof. Wagner Josué
+
+Trabalho Avaliativo - BULMA
+
+Integrantes do grupo:
+- Atos
+- Diogo
+- Layla
+- Yasmim
+
+nov/2023
